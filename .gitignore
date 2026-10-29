@@ -1,0 +1,23 @@
+# Virtual Environment
+.venv/
+env/
+venv/
+
+# Python & Jupyter Caches
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Generated / Processed Data
+data/X_train_processed.csv
+data/X_test_processed.csv
+data/X_test_clustered.csv
+data/X_train_clustered.csv
+data/y_train.csv
+data/y_test.csv
+data/y_train_log.csv
+data/y_test_log.csv
+
+# IDE Configurations
+.vscode/
+.idea/
